@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    font-size: 800%;
+    margin: 0 0 0 0;
+    font-weight: 700 ;
+    text-decoration: none;
+    display: block;
+}
+
+.title a{
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+
+.ueberschrift{
+    text-align: center;
+}
+
+.content{
+    text-decoration: none;
+    padding: 20px 80px; /*oben rechts unten links   */
+}
+

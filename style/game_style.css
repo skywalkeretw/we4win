@@ -1,0 +1,80 @@
+
+#game{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #494949;
+    border-radius: 5px;
+}
+
+
+
+.game a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 70px 16px;
+    text-decoration: none;
+    font-size: 70px;
+
+}
+
+.game a:hover{
+    background-color: rgba(96,96,96, 0.8);
+
+
+}
+
+
+
+
+
+
+
+
+#dota{
+    background-image: url("https://images2.alphacoders.com/474/thumb-1920-474206.jpg");
+}
+
+#cs_go{
+    background-image: url("https://images7.alphacoders.com/587/587593.png");
+}
+#far_cry_4{
+    background-image: url("http://wallpapercave.com/wp/wp1833944.jpg");
+}
+#starbound{
+    background-image: url("http://images.akamai.steamusercontent.com/ugc/487810854073242785/0F3B799193FAEF08511A501627A56AD870BCCDBC/");
+}
+
+#wot{
+    background-image: url("https://images6.alphacoders.com/313/thumb-1920-313885.jpg");
+}
+
+#gtav{
+    background-image: url("http://wallpapercave.com/wp/wp1809630.jpg");
+}
+
+#overwatch{
+    background-image: url("http://www.hdwallpaper.nu/wp-content/uploads/2016/05/overwatch-all-heroes-wallpaper-hd.jpg");
+}
+
+#evolve{
+    background-image: url("https://images2.alphacoders.com/564/thumb-1920-564456.jpg");
+}
+
+#orcs_must_die_2{
+    background-image: url("http://corporate.gameforge.com/wp-content/uploads/2014/04/OMDU-KeyArt.jpg");
+}
+
+#speedrunners{
+    background-image: url("https://s3-us-west-2.amazonaws.com/dvs-uploads/2016/05/Speedrunners-characters.jpg");
+}
+
+#alan_wake{
+    background-image: url("http://wallpapercave.com/wp/2zR4zC9.jpg");
+}
+
+#minecraft{
+    background-image: url("https://images7.alphacoders.com/370/370408.png");
+}
